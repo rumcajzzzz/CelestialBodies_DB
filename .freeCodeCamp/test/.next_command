@@ -452,3 +452,4 @@ pg_dump -cC --inserts -U freecodecamp universe > universe4.sql
 psql --username=freecodecamp --dbname=postgres
 pg_dump -cC --inserts -U freecodecamp universe > universe5.sql
 psql --username=freecodecamp --dbname=postgres
+pg_dump -cC --inserts -U freecodecamp universe > universefinal.sql
